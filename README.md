@@ -1,2 +1,2 @@
 Site Link
-[TodoList-V2](https://dashboard.heroku.com/apps/todolist-version2)
+[TodoList-V2](https://todolist-version2.herokuapp.com/)
